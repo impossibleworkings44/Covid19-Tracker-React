@@ -51,7 +51,10 @@ For data of all countries, link : https://disease.sh/v3/covid-19/countries
 
    
 ### Sneak Peak
-The app is deoployed at this link, you can checkout it out here : covid-19-tracker-1574c.web.app/
+The app is deoployed at this link, you can checkout it out here : 
+https://covid-19-tracker-1574c.web.app/
+
+image.jpg
 ![ss](https://user-images.githubusercontent.com/76193921/111274267-d09c1280-865a-11eb-8fa7-d4b3075ba177.PNG)
 
 
