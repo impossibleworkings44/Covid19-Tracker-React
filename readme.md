@@ -1,7 +1,7 @@
 # Getting Started with Covid19 Tracker React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a Covid19 React App build using React Hooks, Material UI ,and deployed using Google Firebase also In this we have chartjs for graphs and Leaflet for map
+This is a Covid19 React App build using React Hooks, Material UI and deployed using Google Firebase also In this we have chartjs for graphs and Leaflet for map
 ans also used Numeral js for i.e. javascript library for formatting and manipulating numbers.
 
 
