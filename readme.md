@@ -37,10 +37,22 @@ For data of all countries, link : https://disease.sh/v3/covid-19/countries
 
  1) In CLI write npm i -g firebase-tools
  2) firebase login
- 3) firebase init
+ 3) firebase init ,then you will see the below options and choose hosting
+ ![Capture](https://user-images.githubusercontent.com/76193921/111273832-4bb0f900-865a-11eb-86fa-da8be8c0b67a.PNG)
  
+ 4)Choose existing project  
+ 5)Then it will ask what do you want to use as your public directory ?
+    -> Write build 
+   -> ![Capture2](https://user-images.githubusercontent.com/76193921/111274119-9df21a00-865a-11eb-8e79-296dbafaf3ee.PNG)
+ 
+ 6)In CLI write npm run build
+ 7) then finally write firebase deploy
+ 8) done !!
 
+   
 ### Sneak Peak
+The app is deoployed at this link, you can checkout it out here : covid-19-tracker-1574c.web.app/
+![ss](https://user-images.githubusercontent.com/76193921/111274267-d09c1280-865a-11eb-8fa7-d4b3075ba177.PNG)
 
-![screenshot](https://user-images.githubusercontent.com/76193921/111064885-ad4b5900-84dc-11eb-956b-22218507966c.png)
+
 
